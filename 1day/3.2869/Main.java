@@ -10,4 +10,4 @@ public class Main {
 
         System.out.println((int)Math.ceil((v-b)/(a-b)));
     }
-}
+} 
